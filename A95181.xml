@@ -1,0 +1,752 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of some passages which passed at Madrid in the year 1623. by Prince Charles, being then in Spain prosecuting the match with the Lady Infanta. As also, severall observations of eleven ominous presages, some of them hapning in the same hear whil'st the said Prince was in Spain, the rest of them hapned from that time untill his death. With a discovery of some of the wayes which the then Popish Bishops used to bring Poperie into this nation. / By a lover of the Gospel of Jesus Christ, and the wellfare of this nation.</title>
+            <author>Lover of the gospel of Jesus Christ, and the wellfare of this nation.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95181</idno>
+            <idno type="STC">Wing T2918</idno>
+            <idno type="STC">Thomason E842_18</idno>
+            <idno type="STC">ESTC R207227</idno>
+            <idno type="EEBO-CITATION">99866293</idno>
+            <idno type="PROQUEST">99866293</idno>
+            <idno type="VID">118561</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95181)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118561)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 128:E842[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of some passages which passed at Madrid in the year 1623. by Prince Charles, being then in Spain prosecuting the match with the Lady Infanta. As also, severall observations of eleven ominous presages, some of them hapning in the same hear whil'st the said Prince was in Spain, the rest of them hapned from that time untill his death. With a discovery of some of the wayes which the then Popish Bishops used to bring Poperie into this nation. / By a lover of the Gospel of Jesus Christ, and the wellfare of this nation.</title>
+                  <author>Lover of the gospel of Jesus Christ, and the wellfare of this nation.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June. 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118561:1" rendition="simple:additions"/>
+            <p>A TRUE RELATION OF Some paſſages which paſſed at
+<hi>Madrid</hi> in the year 1623. by Prince <hi>Charles,</hi> being then in
+<hi>Spain</hi> proſecuting the match with the Lady <hi>Infanta. AS
+ALSO,</hi> Severall Obſervations of eleven <hi>Ominous Preſages,</hi>
+ſome of them hap<g ref="char:EOLhyphen"/>ning in the ſame year whil'ſt the ſaid Prince was in
+<hi>Spain,</hi> the reſt of them hapned from that time untill his death. With
+a diſcovery of ſome of the wayes which the then Popiſh Biſhops uſed
+to bring Poperie into this Nation.</p>
+            <p>By a lover of the Goſpel of Jeſus Chriſt, and the well<g ref="char:EOLhyphen"/>fare
+of this Nation.</p>
+            <p>Printed at <hi>London,</hi> 1655.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118561:2"/>
+            <pb facs="tcp:118561:2"/>
+            <head>To the Impartial Reader.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>I Had no intent ever to have put in print theſe Ominous
+Preſages, for they have been of an ancient ſtanding in my head; (the moſt
+part of them) old things being fit for nothing but to be forgotten, or at
+leaſt laid aſide. But a friend of mine knowing that I had obſerved them
+long agoe (ſome of them being of 30. years ſtanding or more) de<g ref="char:EOLhyphen"/>ſired me
+to give him a ſhort brief of them, which I did, but when I had collected my
+memory, and ſaw the troubles that do dayly increaſe by ſome who delight
+to fiſh in troubled wa<g ref="char:EOLhyphen"/>ters; and conſidering that there are many good
+people that are not yet ſetled in their hearts concerning theſe mutable
+times, but do ſtill continue oppoſite to the Government as now it is, and
+do not once think of, or it may be never heard of any of thoſe ſad
+Preſages which the Lard ſent to give warning to thoſe that would take
+warning or notice of them and lay them to their hearts. I did alſo then
+conſider with my ſelf, that if they were publiſhed to the view of all the
+Na<g ref="char:EOLhyphen"/>tion, that they may give good ſatisfaction to ſome, and might draw them
+from their ſelf-opinions, which of a long time they have had of theſe
+moſt turbulent times, ſo that if they will but look up to God, they ſhall
+plainly ſee, that the hand of God is in all the actions that hath paſſed
+untill this day; and that no one tittle of the work that the Lord hath
+appointed to be done, but it ſhall be fully effected, though men ſtrive
+never ſo much againſt it. Therefore I deſire thee to conſider well of
+what thou ſhalt find written in theſe few lines, (for they are truth) and
+were acted by thoſe which ſought to bring in Popery to this Nation, in
+thoſe days when <pb facs="tcp:118561:3"/>they had the reines in their own hands. And
+certainly theſe Predictions are true, and were purpoſely ſent by God to
+ſome (though not to all) that they might take notice of them. I having long
+agoe ſpoke with ſome that did take notice of them as well as my ſelf (and
+did look upon them as from the hand of God). And I do wiſh in my heart that
+all thoſe into whoſe hands they ſhall come, to read them carefully and
+im<g ref="char:EOLhyphen"/>print them in their hearts, and be well adviſed how they do practiſe or
+contrive any thing tending to the ſhedding of any more innocent bloud in this
+Nation; for certainly they will be found out, and themſelves will have as
+great a ſhare in the deſtruction which they do practice as any of thoſe
+ſhall have which they ſhall practiſe againſt, either in their lives,
+Limbs, Estates, Wives, Children, and all that is deer unto them; nay which is
+the greateſt of all, their ſouls will have the greateſt loſſe when
+they ſhall loſe heaven, with<g ref="char:EOLhyphen"/>out the great mercy of God. I will conclude
+with the words of the <hi>Pſalmiſt, O that men would fear the Lord and
+praiſe his holy name, for his mercie endu<g ref="char:EOLhyphen"/>reth for ever!</hi> For certainly
+he will (as heretofore he hath done) overthrow the horſe and his rider if
+they do perſiſt in their exorbitant wayes. And I will now ſay with
+<hi>Paul,</hi> as in an other caſe, <hi>My hearts deſire to God is, that
+men would ſerve the Lord with fear and trembling, and fit ſtill and ſee
+the Lords work done in his onwn good time.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118561:3"/>
+            <head>A true Relation of ſome paſſages which paſſed at
+<hi>Madrid</hi> in <hi>Spain,</hi> in the year 1623. by Prince
+<hi>Charles,</hi> being then proſecuting the Match with the Lady
+<hi>Infanta.</hi> As alſo ſome Obſervations of ſeveral <hi>Ominus
+Preſages,</hi> ſome of them hapning the ſame year, 1623. the reſt of
+them hapning from that time until his death.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>I Do deſire thee to conſider with thy ſelf if thou haſt
+hard of, or ſeen any of theſe obſervations following; if yea, then
+whether thou didſt make that uſe of them, as was expected from Gods hands
+thou ſhouldſt have done; for certainly they were not done in a corner, but
+were ſent from God as forerunners of his wrath againſt the late King, and
+all thoſe Popiſhly inclined Prelats, and other his abetters, that did
+aſſiſt him in thoſe Practiſes and Councels, for the bringing in of
+Popery into this Nati<g ref="char:EOLhyphen"/>on, as it did plainly appear by the ſ<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>encing of ſo many Godly and Orthodox
+Miniſters, as then were put from their preaching and livings ſince his
+coming from <hi>Spain,</hi> at which time many young Divines at receiving their
+O<g ref="char:EOLhyphen"/>rders for preaching, were forbidden to read certain mens works, as M.
+<hi>Perkins</hi> his works, <hi>Clarks</hi> Sermons and others, and were
+likewiſe limited what ſubject, they ſhould preach on, as the Lords
+Prayer, the Belief, the Ten Commande<g ref="char:EOLhyphen"/>ments, and the like, and the better to
+bring their practiſes to paſſe, they did cauſe all. Orthodox books that
+were out of print, and to be reprinted, (although the Authors of them were dead
+many years before) to be brought to the Biſhops Chaplains to be reviewed by
+them, who were half, <pb n="2" facs="tcp:118561:4"/>if not altogether Popiſh, or at
+leaſt Arminians, and they to expunge, or put in any Popiſh tenet, which
+they thought fit to put in, although thoſe men which wrote thoſe books were
+men of as ſound judgment as any of thoſe that did corrupt or abuſe their
+works, and it is very likely that if the Biſhops themſeves were ſo much
+given to Popery they would entertain none to be their Chaplains but ſuch as
+ſhould be as themſelves were, and by that means many good Miniſters works
+were corrupted, and themſelves counted Popiſh by all that ſhould read
+their new reviſed works, which the Authors were no wayes guilty of. But you
+will ſay that many of the Biſhops were free from Popery. It is very true,
+ſome of them were ſo, but thoſe that were neareſt to the King in his
+Councels were not, as <hi>Neal, Wren, Laud,</hi> and others were not; but mark
+I pray you, 30. years before the Angels of <hi>England</hi> did begin to fall,
+(which were the Biſhops, as Mr. <hi>Brightman</hi> a famous Divine did call
+them; and one whom the then Biſhops perſecuted even to the forſaking of
+his Native Countrey) he the ſaid <hi>Brightman</hi> did propheſie the
+downfall of them to begin in the year 1639. which fell out very neer the time,
+for in the year 1640. or very neer it, they were expelled the Parliament for
+their miſde<g ref="char:EOLhyphen"/>menors their, for many of them appeared then to be Popiſh.</p>
+            <p>And after the wars began, Biſhop <hi>Wrens</hi> houſe being
+ſearched, there was found in it a new ſet of Maſſing plate, it was as
+neat a ſet of plate as the Pope hath any in his Chappel. And Doctor
+<hi>Peerce</hi> the then Biſhop of <hi>Bath</hi> and <hi>Wells</hi> (as it
+was confidently ſpoken of, and likewiſe written, did ſend word to the
+then Biſhop of <hi>Canterbury (Laud)</hi> and in his Letter to him, did
+thanke God that he had not left a Lectur in all his Dioceſſe, (a thing
+ve<g ref="char:EOLhyphen"/>ry fit to thanke God for) But I pray take notice that all <pb n="3" facs="tcp:118561:4"/>theſe things were acted after the King came from <hi>Spain</hi> (by
+the Biſhops), for the late King being in the year 1623. but Prince, was
+ſent into <hi>Spain</hi> by King <hi>James,</hi> accompanied with
+<hi>George</hi> Duke of <hi>Buckingham,</hi> and Sit <hi>Francis
+Cotington,</hi> where after ſome treaty with the King of Spain concerning the
+<hi>Infanta,</hi> (whom he con<g ref="char:EOLhyphen"/>ceived ſhould have been his wife) the Divines
+of <hi>Spain</hi> oppoſing the match, did put many rubs in the way, but the
+chiefeſt of them was the unlawfulneſſe of matching the daughter of
+<hi>Spain</hi> with an Heretick, and one that they could have no aſſurance
+of, that ſhe ſhould have the free exerciſe of her religion, for her
+ſelf and her retinew with<g ref="char:EOLhyphen"/>out good caution given for the ſame, and no other
+caution would be excepted on but the two Port Towns of <hi>Plimouth</hi> and
+<hi>Dartmouth,</hi> neither did they conceive it fit to have any further treary
+on the premiſes, untill ap<g ref="char:EOLhyphen"/>probation thereof were firſt had and obtained
+from the Popes Holineſſe.</p>
+            <p>And to that end the Prince writes his Lemer to his Holineſſe,
+wherein he gives him the ſtyle of moſt Holy Father, and after Complements
+uſed ſutable to the dig<g ref="char:EOLhyphen"/>nity of his Holineſſe, he makes known unto him
+the cauſe of his ſo ſuddain coming <hi>Spain,</hi> (which as he ſaid)
+was to gain the Lady <hi>Infanta</hi> to be his wife, and with<g ref="char:EOLhyphen"/>all related to
+his Holineſſe what a dangerous conſe<g ref="char:EOLhyphen"/>quence it would be to the
+Catholiques of <hi>England,</hi> if the Divines of <hi>Spain</hi> ſhould make
+any further ſcruple in oppoſing the match; and he did alſo profeſſe
+upon the faith of a Chriſtian Prince, that he would hazard his life and all
+his Kingdomes, for the propagating of the <hi>Roman-Catholick</hi> Religion,
+with other circumſtances of the like nature.</p>
+            <p>His Holineſſe anſwered his Highneſſe Letter with the
+like Complemers, laying before him the Valour of his <pb n="4" facs="tcp:118561:5"/>noble
+Anceſtors, who hazzarded their lives and all their fortunes, and all that was
+deer unto them in defending the Catholick ſaith, and did not only merit unto
+themſelves eternall glory and happineſſe in heaven, but gained unto
+themſelves alſo, and to their poſterity, everlaſting ſame and renow
+here upon earth, and then ex<g ref="char:EOLhyphen"/>citing him) as his Anceſtors had done) to go
+forward in promoting the Catholick faith and ſo with is holineſſe his
+benedict on he bequeathed his highneſſe, to the protect on of the
+Almighty.</p>
+            <p>Yet the Divines were not ſatisfyed with his Highneſſe ſo
+large promiſes to his Holineſſe, but ſtill oppoſed the match with
+might and main, ſo that the Prince was con<g ref="char:EOLhyphen"/>ſtrained to ſend another
+writing to the King of <hi>Spain,</hi> of one whole ſheet of paper fully
+written and ſent it by the hands of the <hi>Duke de Olavarce,</hi> intimating
+what a diſhonour it would be both to his perſon and reputation, if he
+ſhould not obtain the prize which he ſo much aimed at, and which he did
+eſteem above all the treaſures in the whole world, and that it would be a
+great hindrance to the Catholicks of <hi>England</hi> from attaining that which
+now they might obtain, if he might not have her which his ſoul ſo much
+deſired; but he hoped that thoſe ſo celebrious Divines would not put him
+to give ſuch caution as was deſired, and as they propounded, and could not
+be by him with honor granted, eſpecially in regard his Father had granted the
+Catholicks of <hi>England</hi> the free exerciſe of their Religi<g ref="char:EOLhyphen"/>on ſeven
+years before his coming into <hi>Spain,</hi> and with all exciting them to
+conſider that neither his Father nor himſelf had broken their words in the
+leaſt title of any the capitulations that had paſt between them, ad the
+Divines in not taking the word nor Oath of his Father nor of himſelf, for
+performance of what had been capitulated, would be a means to cauſe his 
+<pb n="5" facs="tcp:118561:5"/>Fathers vaſſals every day to raiſe new ſcruples and
+ob<g ref="char:EOLhyphen"/>ſtructions, ſo that the Catholicks of <hi>England</hi> ſhould not
+injoy that freedome of the exerciſe of their Religion which now they have,
+and that if he might injoy her whom his ſoul ſo much deſired, it would be
+a means that none of his Fathers vaſſals ſhould dare to ſtir.</p>
+            <p>And he doth alſo promiſe upon the faith of a Chriſti<g ref="char:EOLhyphen"/>on
+Prince, that nothing in the world ſhould make him break his word in the
+leaſt jot or tittle of any that ſhould be capittulated on, but would
+hazzard his life and all his Kingdomes, and all that was deer unto him, for the
+pro<g ref="char:EOLhyphen"/>moting of the Roman Catholick Religion, for he would not be joyned to one
+in the affinity of marriage, whoſe Religion he ſhould hate, which promiſe
+he did faith<g ref="char:EOLhyphen"/>fully keep, to the ruin of himſelf, and all his
+Poſte<g ref="char:EOLhyphen"/>rity.</p>
+            <p>But the firſt foundation of his ruin, and all their Poſterity,
+was laid by his Father King <hi>James;</hi> for in the matter of Sir <hi>Thomas
+Overbury</hi> his death, he did ſend for the Judges and gave them a ſtrict
+charge to examine the matter throughly concerning the death of Sir <hi>Tho.
+Over<g ref="char:EOLhyphen"/>bury,</hi> and did imprecate Gods curſe upon them if they did not
+diſcover it to the full; and did upon his knees call for a curſe from God,
+and deſired that God would never pro<g ref="char:EOLhyphen"/>ſper him nor any of his Poſterity,
+if he did ſpare any guilty perſon that had a hand in that poiſonous
+murther: and the Judges having proſecuted the buſineſſe ſo far, that
+they found <hi>Sommerſet</hi> and his Lady to be the chief actors in this
+murther, for they found that <hi>Sommerſet</hi> did write a friendly Letter
+to Sir <hi>Tho. Overbury,</hi> that he would uſe all the wayes and means to
+get his inlargement that poſ<g ref="char:EOLhyphen"/>ſibly he could, and in that Letter he ſent
+him a paper of Powder for him to take, as being the beſt thing that
+him<g ref="char:EOLhyphen"/>ſelf <pb n="6" facs="tcp:118561:6"/>took in his ſickneſſe, (Sir <hi>Thomas</hi>
+being then ſick of Poyſon ſent him before) but this powder which was
+ſent in this Letter was a poyſon of a lingring nature, whereof (with ſome
+other poyſon which Mris. <hi>Turner</hi> had ſent him of the like nature)
+he died, and after it was ſound out, there was juſtice done upon many of
+the actors, where of <hi>Weſton</hi> was the firſt, then Sir <hi>Jarvis
+Elway,</hi> the then Lieutenant of the Tower, was the next that ſuffered, and
+after him, Mris. <hi>Turner</hi> was alſo hanged, beſides others; and when
+it was punctually proved that <hi>Summer<g ref="char:EOLhyphen"/>ſet</hi> and his Lady were ſound
+to be the chief actors of this murther, and that he himſelf had ſent the
+poyſon aforeſaid, the King contrary to the curſe which he had formerly
+called from heaven upon himſelf and all his poſterity, did pandon both him
+and her, after the Lord <hi>Coke</hi> had paſt ſen<g ref="char:EOLhyphen"/>tence of death upon
+them, and the Lord <hi>Coke</hi> was ever after in diſgrace with the King,
+for paſſing this ſentence againſt them, and for ſome other ſmall
+marter which he croſſed the Kings humour in; and ſo this noble Gentleman
+was poy ſoned, for no other cauſe but for oppoſing <hi>Summerſet</hi>
+in the marriage of <hi>Eſſex</hi> his wife. But the Lord did ſhew a great
+example upon them both, but eſpecially upon her, for ſhe died a more
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>thſome death then any woman ever
+died, but for civilities ſake I will forbear the particulars thereof.</p>
+            <p>But let us now leave this, and ſpeak no more of this curſe,
+but let us look up to heaven upon him that ſees all the actions that are done
+on earth, and that is the contriver of all marriages on earth both great and
+ſmall, and you ſmall ſee how he doth fruſtrate the deſignes of all
+thoſe that have plotted the downfall of the Goſpell of Jeſus Chriſt, by
+bringing them to utter confuſion in all their enter priſes, and I pray
+obſerve with me, how in the very interim of this <pb n="7" facs="tcp:118561:6"/>treaty the
+Lord did look down from heaven upon them, and did ſend his thunders as
+meſſengers of his wrath to give them warning, that he would meet with them
+and confound all their deviſes.</p>
+            <p>And in the firſt place be pleaſed to take notice that on
+Thurſday the 30. of <hi>June,</hi> 1623. whil'ſt the Prince was in
+<hi>Spain,</hi> it being but two dayes after the Letter was written to the Pope
+(for it was written the 28. day of <hi>June</hi>)</p>
+            <p n="1">I. The Lord was pleaſed to ſend one great clap of
+Thunder, which ſtroke away the flag and flag-ſtaffe from the
+main-top-maſt-head of a Ship then riding at <hi>Black<g ref="char:EOLhyphen"/>w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll</hi> and bound for <hi>Spain</hi> with proviſion of
+freſh victuals to fetch the Prince home: as live Muttons, Capons, and other
+fowls fit ſot ſuch a voyage, <hi>Spain</hi> being barren of ſuch
+proviſions (ſo that they could not be furniſhed there) It was as fair a
+day as any hath been ſeen; it alſo ſplit the main-top-maſt, as own
+would have ſplit an Oſier twig, it threw one part on one ſide of the
+Ship, and the other part on the other ſide of the Ship, it raiſed the
+main-maſt down to the deck, but did no other hurt to the Ship; it killed two
+men and one woman at <hi>Croydon</hi> in the Biſhop of <hi>Canterburies</hi>
+Dioceſſe, in a field where they were making hay. But you may object, this
+was but an accident, for thunders have done many ſuch things, the bodies
+being ſoorched, and their clothes not ſo much as once to ſmell of the
+fire. it is very true, ſuch things have hapned many times and in many places,
+but look a little further and you ſhall ſee ſuch other prodigious things
+that you will not ſay they were accidentall.</p>
+            <p>And now I beſeech you conſider with me whether theſe follow
+Preſages be accidentall or no.</p>
+            <p n="2">II. And ſee what happened on the very next Thurſday
+being the 7. of our <hi>July,</hi> the Letter to the Pope being 
+<pb n="8" facs="tcp:118561:7"/>written the 8. of their <hi>July</hi> at <hi>Madrid</hi> in
+<hi>Spain,</hi> it pleaſed, the Lord to ſend many great: claps of Thunder,
+with aboundance of rain, and withall ſo great a pillar of fire from heaven
+out of the South (which is the due courſe from <hi>Spain</hi>) that it
+reached from the heavens to the earth, not as a flaſh of lightnings gone in
+the very ſight, but a very firme pillar of fire, which I believe did amaſe
+any that did behold it. It was my hap to be in the Parke neer Southwark, when
+it fell right before me, and ſo deterred me, that I prayed that the Lord was
+not angry with this Nation, for ſeeking to match with one whoſe Religion
+was not agreeable to the Goſpell of Jeſus Chriſt, but one of thoſe
+claps of Thunder did ſtrike away the Crown and Vane from the top of the
+Gatehouſe of St. <hi>James</hi> whereon the clock ſtood; it melted a piece
+of the bell (which houſe was then the Princes houſe at that time) and he
+conſtantly kept his Court there, it alſo ſtruck down a Gardner and his
+wife in a Garden neer the <hi>Neathouſe</hi> neer <hi>Weſtminſter,</hi>
+&amp; brak through ſeveral houſe in the bowling-alley neer
+<hi>Weſtminſter</hi> aforeſaid, the man before mentioned was dead, but
+the woman revived and was well again, the body of the man was ſcorched, but
+his clothes had no hurt. It ſplit wainſcots, chaires, tables and ſtools
+in the houſes aforeſaid. It killed alſo another man at <hi>Croydon</hi>
+the ſame time. Surely theſe things cannot be accidentall, when both theſe
+thunders did aime, both at the head and Crown as we may ſee it did, for the
+flag is as the hat on the Kings head, for all Ships when they meet with any the
+King or States ſhips at Sea, they ſtrike their topſails or the flag in
+obedience or homage to the Admirall; there is no man that not is wilfully blind
+but he may ſee that theſe two dayes Thunders were not accidentall, but from
+the hand of God.</p>
+            <p>
+               <pb n="9" facs="tcp:118561:7"/>There is one thing more which a Heathen or an
+Infidell will not ſay was accidentall, and that is this:</p>
+            <p n="3">III. Old <hi>Thomas</hi> Earl of <hi>Arundell</hi> a great
+lover of Statues, had ſent for the Kings Statue in marble out of
+<hi>Italy;</hi> it being come it was landed at a little garden houſe in
+<hi>Greenwitch</hi> which the Earl then had there; his Lord<g ref="char:EOLhyphen"/>ſhip with others
+coming to view the Statue, did very much commend the workmanſhip of it, but
+while they were diſcourſing of it, their fell three drops of bloud on the
+face of it, no man knowing how it ſhould come there; the Earl ſeeing the
+bloud was very much moved at it, they uſed all the means they could uſe to
+get away the bloud, but could not; this queſtionleſſe was not done by
+accident, but as the <hi>Egyptian</hi> Sorcerers ſaid to <hi>Pharaoh</hi> in
+the plague of the lice, This is the finger of God.</p>
+            <p>Yet one thing more there is remaining which I hope will give you
+full ſatisfaction that theſe Preſages were ſent by God.</p>
+            <p n="4">IV. For in the ſame year 1623. while the Prince was in
+<hi>Spain</hi> (for then he was but Prince) promiſing to pro<g ref="char:EOLhyphen"/>mote the Roman
+Catholick Religion, both to the Pope and likewiſe to the King of
+<hi>Spain,</hi> there was a <hi>Buckinghamſhire</hi> man, a Taylor by trade,
+and as he ſaid dwelt in <hi>Ailſbury,</hi> he was neer upon 40. years of
+age, and a very ſober man, he could not contain himſelf at his work in his
+houſe, but muſt of force in the ſame year while the Prince was in
+<hi>Spain;</hi> making thoſe promiſes to propagate the Romiſh Religion in
+<hi>England</hi> aforeſaid, he did in all or moſt part of all the eminent
+ſtreets in <hi>London,</hi> in that very year curſe the Romiſh Religion;
+pronouncing wee to <hi>Rome,</hi> woe to the Pope, woe to all Papiſts; and
+God confound the Pope and all Papiſts, and all that did adhere to Popery, by
+what name or title ſo ever they were called, <pb n="10" facs="tcp:118561:8"/>whether
+Dukes, Marqueſſes, Earls, Lords, Viſcounts, or of what degree ſoever;
+he did conſtantly three or four dayes in the week all or moſt part of the
+time the Prince was in Spain, come to <hi>Whitehall-gate,</hi> King
+<hi>James</hi> being then at <hi>Whitehall</hi> for the moſt part, he did
+there make a prayer of three quarters of an houre long, it was as effectu<g ref="char:EOLhyphen"/>all a
+prayer as any Divine in <hi>England</hi> could make, in that prayer he prayed
+that the Goſpell of Jeſus Chriſt might ſtill continue and flouriſh in
+this Nation, and after praying for the Goſpell, he again cried theſe woes
+as formerly, and when he had made his prayer at <hi>Whitehall-gate,</hi> with
+his hat under his arme all the time of his praying and journey (for ſo he
+called it his journey, as you ſhall ſee by and by) he then betook himſelf
+to march through the City, praying this prayer, and crying theſe woes and
+curſings againſt Popery as aforeſaid. He began his journey at
+<hi>Whitehall-gate,</hi> and marched as far as there was any houſe in
+<hi>White-chappell, Eaſt-ſmithfield, Shoreditch, Iſlington,</hi> St.
+<hi>Giles in the fields,</hi> the <hi>Barrough</hi> of <hi>Southwark,</hi> and
+many other walkes, and in this manner he paſt through all or the moſt part
+of all the ſtreets in <hi>London,</hi> and although he made the moſt part
+of his prayers at <hi>Whitehall-gate</hi> King <hi>James</hi> be<g ref="char:EOLhyphen"/>ing then
+there, yet no man reproved him for it, or asked why he did ſo, til one day
+Sir <hi>Harry Spiller</hi> ſaw him crying theſe woes at the upper end of
+<hi>Holborn,</hi> did ſend him to the new Bridewell neer
+<hi>Clarken-well,</hi> where he remained three weeks (and then being charged as
+<hi>Peter</hi> and <hi>John</hi> were by the Jewiſh Rabbins that he ſhould
+teach no more in that name, he was let go) but he regarding not their threats
+did cry theſe woes a long time after, at length he went to his houſe in
+<hi>Buccingamſhire,</hi> thinking to cry theſe woes no more, but went to
+fall to work at his trade, yet when he was at his work he had not the power to
+finiſh it, but threw it aſide and came up to <hi>London</hi> the ſecond
+time <pb n="11" facs="tcp:118561:8"/>to crie theſe woes which he did a long time
+after.</p>
+            <p>I did once meet him neer <hi>Biſhopſgate-ſtreet</hi> as he
+was coming back from crying theſe woes, where a man of his acquaintance met
+him, and asked him if he would drink a cup of beer, he ſaid he would, for
+ſaid he, I have done my journey, therefore it is evident he was ſent of God
+to cry theſe woes againſt the Papiſts, as the Lord ſent that man to
+<hi>Jeruſalem</hi> many years before it was deſtroyed, and at laſt cryed,
+Woe, woe to himſelf, and immediately was ſtruck dead by a clap of thunder.
+It is much about 32. years ſince this man did cry theſe woes in
+<hi>London;</hi> and who knowes but the Lord may very ſpeeddy purge this
+Nation of all thoſe blaſphemous opinions which do now ſwarme in it, and
+of all thoſe that do ſeek to uphold Popery or any other falſe opinions,
+which this Nation is now overrun with; and I beſeech you to conſider that
+this mans crying theſe woes juſt in the interim when the Prince was in
+<hi>Spain</hi> acting againſt the Goſpell, it is neceſſary that we
+ſhould take notice of it, and of other things of the like nature, and to the
+ſame purpoſe; for afoer be was King and had mar<g ref="char:EOLhyphen"/>ried the Queen out of
+<hi>France,</hi> he did entertain <hi>Signier Con</hi> the Popes Nuncio, and
+one <hi>Price</hi> Superior of the Benedi<g ref="char:EOLhyphen"/>ctine Monks, a very great Polititian
+and Stateſman he was, wch two men were ſo great with <hi>Laud</hi> then
+Biſhop of <hi>Can<g ref="char:EOLhyphen"/>terburyh,</hi> that they had free acceſſe to him and
+<hi>Windebanck</hi> at all times; and they were ſo great with <hi>Laud</hi>
+(he being a Jeſuiticall Monke) that he gave out that he ſhould have the
+Cure of the Church in <hi>Cowen Garden.</hi> This <hi>Signier Con</hi> and this
+<hi>Price</hi> had ſo much power with <hi>Laud</hi> and <hi>Windebanck,</hi>
+that they did brave the purſevants which had Commiſſions for the
+apprehending of Prieſts and Jeſuns, and did threatten them to cauſe their
+Commiſſions to be taken from them; and <hi>Windebanck</hi> himſelf did
+revile the <pb n="12" facs="tcp:118561:9"/>Purſevants, calling them Knaves, and threatning
+them, that if they did ever meddle with any more Prieſts and Jeſuites, he
+would make him ſmart for it. I my ſelf ha<g ref="char:EOLhyphen"/>ving ſeiſed a great number of
+Popiſh books in Engliſh, Biſhop <hi>Laud</hi> would ſend for them to
+the Regiſters Office, for the high Commiſſion Court, and the ſame night
+would deliver them to the owners of them to be diſperſt through the Nation,
+ſo that it is evident that if the King were not Popiſhly inclined, yet the
+chief Biſhops, and the chief officers about him, were abſolutely Popiſh.
+I could name many more that were in great places about the King that were
+Papiſts, and known to be ſo, by many that grie<g ref="char:EOLhyphen"/>ved to ſee it at that
+time. But let me ſpeak a little more of this man, in all the time that he was
+crying theſe woes, he was never ſeen to beg or receive any thing by way of
+re<g ref="char:EOLhyphen"/>lief of any man, yet he wanted nothing that ever I could heare of, he
+alwayes wore one ſute of cloth whole and ſound, and there is no queſtion
+but the Lord did keep him while he was doing his work. But if there be any that
+do diſtruſt the truth hereof, there be many thouſands this day living in
+<hi>London,</hi> that did both hear him, and ſee him as well as my ſelf,
+while he was doing his work.</p>
+            <p n="5">V. After this one of the Crownes and Vanes of the tower was
+turned over the top of the ſpindle whereon it was placed, by a very ſmall
+gale of winde, and ſo both Crown and Vane hung at the foot of the ſpindle
+three quarters of a year of more, at which time new ones were ſet up. The
+Crown and Vane did weigh 100 weight, at leſt and was forelockt one to the top
+of the ſpindle with a forelock of iron; ſurely if a greater providence then
+this ſmall gale of winde had not took it off the ſpindle, it might have
+re<g ref="char:EOLhyphen"/>mained there untill this time, but the Lord had ordered it ſo to be, that
+ſome (though not all) might look upon it as <pb n="13" facs="tcp:118561:9"/>from the hand
+of God, for many thouſands did ſee it and did take notice of it as from the
+hand of God at that time.</p>
+            <p n="6">VI. There is one thing more to be looked on as from the all
+ſeeing eye of heaven, which fel out very ſtrangely con<g ref="char:EOLhyphen"/>cerning the late
+King. His hand and Scepter broke off from his Statue at the Exchange, and fell
+down to the ground, even at charge time, to the admiration of all the
+beholders, the Change being then full of Merchants and others at the ſame
+time, and the next day it was ſet up again, it was taken as a ſad Preſage
+by all that beheld it; yet I believe there be many that will make no account of
+theſe remark<g ref="char:EOLhyphen"/>able paſſages, but will ſlight them as things not worthy
+to take notice of, but my ſimple thoughts do lead me to conceive that the
+falling down of the hand and Scepter, did preſage the taking of the
+Government out of his hand, as is ſeen this day, and I could wiſh that all
+thoſe that do ſo ſlight the former paſſages, to conſider better and
+not to ſlight the next that follows, which is very remarkable.</p>
+            <p n="7">VII. There was an ancient Gentlewoman which came from
+<hi>Briſtoll</hi> a widdow, and had been the wife of one Mr. <hi>Cary</hi> a
+Woollen Drapper on the back of <hi>Briſtoll,</hi> this woman had ſeen many
+ſtrange apparitions of the late King at ſeverall times, as his Crown all
+bloudy, himſelf in black, and his head off, with many other ſuch viſions
+ſhe could not be quiet, untill ſhe came to <hi>London</hi> to acquaint
+him<g ref="char:EOLhyphen"/>ſelf with thoſe viſions which ſhe had ſeen of him, and af<g ref="char:EOLhyphen"/>ter two
+years time ſpent in ſoliciting this Noble man, and that Noble man and
+others to bring her to the King, at length the Earl of <hi>Dorſet</hi> (after
+much importunity) brought her to the King, where ſhe told his Majeſty all
+that ſhe had ſeen of him, he gave her the hearing of it, but would give no
+credit to what ſhe had ſaid, but bid take her away ſhe was a merry woman;
+then when ſhe had told him all that <pb n="14" facs="tcp:118561:10"/>ſhe had ſeen of
+him, ſhe returned to <hi>Briſtoll</hi> again thinking there to reſt her
+ſell in peace; ſhe had not been there many dayes, but thoſe Viſions
+appeared to her as at the firſt, whereupon ſhe could not contain herſelf
+but muſt of force come up to <hi>London</hi> the ſecond time, to acquaint
+his Ma<g ref="char:EOLhyphen"/>jeſty with what ſhe had ſeen of him ſince her laſt being with
+him at <hi>Whitehall,</hi> but before ſhe could get to <hi>London</hi> his
+Majeſty was gone to <hi>York,</hi> yet though ſhe was in years and a weakly
+woman, and the journey long and tedious for ſuch a one as her ſelf to
+undertake, yet ſhe muſt of neceſſity go after him to <hi>York,</hi> and
+was conveyed to <hi>York</hi> in a Coach by means of a Lady, which at the
+writing hereof is living neer <hi>London</hi> who can juſtifie the ſame if
+any ſhould ſcruple the truth hereof, and being come to <hi>York</hi> ſhe
+had admit<g ref="char:EOLhyphen"/>tance to his preſence, where ſhe once again related to him all
+that ſhe had ſeen of him ſince her laſt being with him at
+<hi>Whitehall,</hi> with much praying and beſeeching him to conſider what
+ſhe had ſeen and ſaid of him, but he would not harken to her, nor give
+credit to what ſhe had ſaid un<g ref="char:EOLhyphen"/>to him, for certainly the Lord had hid
+theſe things from him, and would not let him underſtand them becauſe he
+would deſtroy him; for to that purpoſe the Lord did har<g ref="char:EOLhyphen"/>den the heart of
+<hi>Pharaob,</hi> that he ſhould not believe the wonders which
+<hi>Moſes</hi> the ſervant of the Lord wrought in his fight, to make his
+name known to all the world, for ſaith the Lord, <hi>Exod.</hi> 9.16. For
+this cauſe have happoin<g ref="char:EOLhyphen"/>ted thee to ſhew my power in thee, and to declare
+my name in all the world; but the more plagues the Lord did ſend on
+<hi>Pharaob,</hi> the more his heart was hardned by them.</p>
+            <p>I could wiſh that all thoſe into whoſe hands theſe ſad
+Preſages ſhall come, that they would conſider with them<g ref="char:EOLhyphen"/>ſelves that
+there was more then an ordinary hand in cau<g ref="char:EOLhyphen"/>ſing this Gentlewoman being ſo
+antient as ſhe was to take <pb n="15" facs="tcp:118561:10"/>upon her two ſo great
+journeys as theſe were; firſt from <hi>Bristoll</hi> to <hi>London,</hi>
+then to <hi>Briſtoll</hi> again, then to <hi>London,</hi> and ſo to
+<hi>York,</hi> and all upon her own charge; ſurely there muſt be more then
+an ordinary hand in it, which did guide this woman, ſhe being ſo ancient as
+ſhe was, and no kind of diſtemper at all in her, but in a very good temper
+both in mind and words, and in her behaviour very civill, as many people in
+<hi>London</hi> that did talke with her concerning theſe viſions can
+witneſſe.</p>
+            <p n="8">☞ VIII. I have been credibly informed, that his
+Highneſſe the Lord Protector that now is, being in a Gentlemans houſe at
+prayer in a room wherein the Kings Picture did hang, neer about the middeſt
+of prayer the Picture fell down to the ground, which was a ſad preſage to
+the King, and now ſeems to be a clear teſtimony of Gods purpoſe to reject
+him: but how hath the Lord Protector been preſerved in ſo many great
+dangers as by Gods providence he hath gone through, in his own per<g ref="char:EOLhyphen"/>ſon,
+ſince theſe troubles began, and that dainger which he eſcaped in the
+Coach was not the leaſt, and queſtionleſſe the Lord hath appointed him
+to be the man to Govern the Nation at this time, who can deny Gods
+permiſſive providence.</p>
+            <p n="9">IX. His Majeſty being one day at <hi>Cauſam</hi> neer
+<hi>Redding</hi> playing at Cheſſe, he playing with the white men, the head
+of the white King fell of, which was as ominous a preſage as any of the
+reſt.</p>
+            <p n="10">X. When the Lord <hi>Fairfax</hi> was at St.
+<hi>Albons,</hi> and the generall Counſell of the Army drawing up the grand
+Remonſtrance, in order to require juſtice againſt the King, the Sign of
+the Kings-head beneath the hill from the Croſſe, that part of the board
+between the head and ſhoul<g ref="char:EOLhyphen"/>ders, was broken out of the Sign, none knowing how
+it came to be ſo, ſo that the head and ſhoulders were ſepara<g ref="char:EOLhyphen"/>ted 
+<pb n="16" facs="tcp:118561:11"/>from each other. it ſeemed then to be an ominous thing to
+what did ſhortly befall him in purſuance of that Remonſtrance then
+drawing up againſt him by the Army. Wherefore I would wiſh that althoſe
+malignant ſpirits that are ſo bitter againſt this Government, to
+conſider that there is no power given unto men upon earth but by God;
+therefore let them ſit ſtill and ſee the Lords work done in truth and
+righteouſineſſe, for ſurely the Lord will owne him ſo far as he doth
+act for the Lord, and no underhand pra<g ref="char:EOLhyphen"/>ctis ſhall prevail againſt him,
+mauger all the Devils in hell they ſhall not touch him to do him harme, for
+the Lord will be his Protector ſo long as he doth act for the Lord; but if he
+act not of, and for the Lord, then the Lord will bring all his actions to
+nought, and it will fall to the ground of it ſelf, as once <hi>Gamaliel</hi>
+ſaid to the Jewiſh Rab<g ref="char:EOLhyphen"/>bins, refrain from theſe men and let them alone,
+for if this Counſell or this work be of men, it will come to nought, but if
+it be of God you cannot overthrow it, leaſt happily ye be found fighters
+againſt God, <hi>Act.</hi> 5.28, 29. And as M. <hi>Saltmarſh</hi> ſaid
+once in a Sermon before the Lord <hi>Fairfax,</hi> So long as you ſerve the
+Lord, he will be with you, but if you fall from the Lord, the Lord will fall
+from you. Therefore to thoſe turbulent ſpirits I will uſe our Saviour
+Chriſts own words to <hi>Saul</hi> going to <hi>Damaſcus</hi> to
+perſecute the people of God, It is hard for you to kick a<g ref="char:EOLhyphen"/>gainſt prickles.
+And I do now wiſh that you which are ſuch enemies againſt this
+Government, to look up to God and lay aſide your own particular
+intereſſe, and if there be any thing amiſſe in your hearts, caſt it
+out, and leave all unto the Lord for himſelf to rectifie, for your plots and
+deviſes will ſurely come to nought.</p>
+            <p n="11">XI. There is one thing more yet as remarkable as the
+reſt, When the King was at the high Court of Juſtice on his Tryall, the
+head of his cane fell off, he ſtopping to <pb n="17" facs="tcp:118561:11"/>take it up
+himſelf, took it as an ominous Preſage unto himſelf, and ſo indeed he
+might have done all the former Preſages; the greateſt part of them bending
+to the head; but as I ſaid before, the Lord did hide them from him. And with
+my heart I wiſh that thoſe ominbus preſages, which the Lord did ſend as
+forerunners of his wrath againſt him in his ſo great fall and ruin, might
+deter all men of what condition ſoever to leave plotting and contriving any
+further tumults or ſedicions tending to the ſhedding of any more innocent
+bloud in this Nation; but let them plot what they will againſt this
+Government, they will ſurely be deſtroyed in all their practiſes, as it
+is evidently ſeen in the two laſt plots, for when they thought
+them<g ref="char:EOLhyphen"/>ſelves ſecure, &amp; the childe of the Devill, as I may truly ſay,
+brought to the very birth, ſee then how the Lord did fruſtrate their
+actions, and with the leaſt breath of his no<g ref="char:EOLhyphen"/>ſtrils brake them to pieces,
+and that in a moment, as he did all the enemies of that famous Queen
+<hi>Elizabeth</hi> all her life, as well before her coming to the Crown as
+after. Firſt by Biſhop <hi>Bonner</hi> and his crew, by ſetting her
+ſiſter Queen <hi>Mary</hi> to take away her life, and for no other cauſe,
+but for profeſſing the Goſpell of Jeſus Chriſt, had not the Lord
+diſcovered it (in his due time) to King <hi>Philip</hi> in a warrant which
+the Biſhops had ſhuffled in amongſt other warrants to be ſigned by him
+for her death, but the King reading the warrant refuſed to ſign it, and
+threw it aſide, but before they could bring their purpoſes to paſſe,
+Queen <hi>Mary</hi> died, and then their hopes were fruſtrate, for ſhe was
+preſently Crowned Queen, to the great terrour of all thoſe that did plot
+her downfall, for her heart was up right unto the Lord, and the Lord kept her
+from all their plots and deviſes, for after ſhe came to the Crown, what
+plots, and deviſes did they not practiſe to take her life away, by
+Piſtols, Poyſonings, Stabbings, and by many other helliſh 
+<pb n="18" facs="tcp:118561:12"/>practiſes, how many lowing buls of <hi>Baſhan</hi> did
+the Pope ſend againſt her, diſcharging her Subjects of their
+alſegi<g ref="char:EOLhyphen"/>ance unto her, animating her ſubjects to deſtroy her by any means
+whatſoever, as it was plainly ſeen in the treaſons of thoſe helliſh
+Conſpiratos, <hi>Lopus, Campion, Parry, Garnat, Baniſter, Summervild,
+Squire,</hi> and the reſt of that Popiſh rable, and then by that never to
+be forgotten deliverance of that invincible Navy, as the <hi>Spaniards</hi>
+called that great Armado in 88. when they made themſelves ſure of all this
+Nation, and ſo to bring it to Idolatry, for they brought with them whips of
+wire, gagges, and many other inſtruments of cruelty to force this whole Land
+to Popery. But bleſſed be God the ſnare is broke and we are eſcaped,
+except our ſins which are innumerable do make us fall into the ſnare, for
+ſurely our ſins are even ripe unto the harveſt, and there wants nothing
+but the Lords putting in his ſickle to reap us, for ſurely the Lords
+patience is very much in waiting for our repentance, therefore let us not defer
+it any longer, leaſt the Lord caſt us off if we repent not all the
+ſooner; but bleſſed and praiſed be the Lord for it, he brought that
+in<g ref="char:EOLhyphen"/>vincible Armado to nought, for not one third part of them ever came home to
+<hi>Spain</hi> again, and for all their malice a<g ref="char:EOLhyphen"/>gainſt her, ſhe died in a
+good old age full of dayes, riches and honour, for ſhe left all her coffers
+full of riches and treaſure, which ſhe got from thoſe that ſought her
+life, by making wars againſt them, for the Lord did proſper all her
+undertakings, which ſhe took in hand, for her heart was up<g ref="char:EOLhyphen"/>right unto the
+Lord all her dayes (as the heart of <hi>Aſa</hi> king of <hi>Juda</hi> was)
+and the Lord did keep her in ſtore to ſettle the Goſpell of Jeſus
+Chriſt in this Nation and hath conti<g ref="char:EOLhyphen"/>newed it here almoſt 100. yeers,
+praiſed be his holy name for it, and grant good Lord that it may continew in
+this Nation ſo long as the Sun and Moon endureth.</p>
+            <p>And now let me return unto the King in his project of 
+<pb n="19" facs="tcp:118561:12"/>bringing in of Popery, he had the leaſt cauſe of any in
+the world to have any alliance at all with Papiſts, much leſſe to link
+himſelf in the affinity of marriage with them, for look but back upon the
+Powder-plot and you ſhall ſee his Fa<g ref="char:EOLhyphen"/>ther, himſelf, and all their
+poſterity, with all the Nobility and all the chief Gentry of this Nation,
+deſigned to be blown up into the aire, (the Lady <hi>Elizabeth</hi> his
+ſiſter only excepted) for they had determined to marry her to ſome
+Catholick Gentleman, and ſo to have made her Queen, but God did laugh at
+them, and brought them to nought, bleſ<g ref="char:EOLhyphen"/>ſed and praiſed be his holy name
+for it.</p>
+            <p>But his Father and himſelf very well knew that all the
+conſiderable Papiſts in <hi>England</hi> did know of it, and were ingaged
+in it, and did contribute to it, and for him to make a firm league with them,
+the enemies of Jeſus Chriſt was moſt abominable; but as the Lord ſaid
+unto <hi>Ezekiel,</hi> Son of man turn thee, and thou ſhalt ſee greater
+abominations then theſe: ſo he yet added more to all the reſt, in putting
+forth that helliſh book of ſports (as his Fa<g ref="char:EOLhyphen"/>ther had formerly done) which
+book was put forth by the Counſell, and adviſe of the then Popiſh
+Biſhops long after his coming from <hi>Spain,</hi> wherein he gives free
+liberty to the people to commit all licentiouſneſſe for prophaning the
+Lords day, by dancing, revelling, gaming, and all that the Devill could invent,
+to the great diſhonor of God and his Sabaths, but it was contrived of ſet
+purpoſe to ſilence all conſcientious Miniſters that did ſeruple the
+reading of it, as many of them did) and were put from their preaching for not
+reading the ſame, and alſo to draw the hearts of the rude multitude to
+himſelf, if there ſhould be occaſion offered by any that ſhould
+oppoſe the riſe of Popery, which the multitude is apt to do, as the
+multitude of <hi>Aſia</hi> did againſt <hi>Paul,</hi> but knew no cauſe
+for what they did, <pb n="20" facs="tcp:118561:13"/>the whole City being in an uproar, but
+knew not for what; ſo this book was put forth to cauſe the rude multitude
+to riſe in defence of the profain liberty which was given them by authority
+if there ſhould be occaſion as I ſaid before, it was one of the
+greateſt Mr. Pieces that ever the Devill did put on foot in this Nation (to
+draw the people to himſelf) that ever was hatcht in hell, far greater then
+the Powder plot, for that had deſtroyed, but the bodies of a few b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t this would have deſtroyed the
+ſouls of many thouſands, if it had continued longer; It was worſe then
+<hi>Balaams</hi> coun<g ref="char:EOLhyphen"/>ſell for the <hi>Midianitiſh</hi> women to draw the
+children of <hi>Iſrael</hi> to commit folly and Idolatry, but he had his
+reward, for he was ſlain ſhortly after by the <hi>Iſraelites,</hi> and
+ſo will all the enemies of Jeſus Chriſt periſh in all their wicked
+practiſes, if they deſiſt not in the purſuance of them.</p>
+            <p>Here are pregnant examples enough to make men leave their wicked
+practiſes, if they will take notice of them, which God of his mercy give all
+thoſe hearts to do, that ſhall read theſe Ominous Preſages, and the
+Lord give all men hearts to underſtand what it is to ſtrive againſt God.
+And my hearts deſire is, that the Lord would ſtir up the hearts of thoſe
+that are in authority, to put in execution that Additionall Act for the better
+keeping of the Lords day, which is ſo much neglected, and the Sabbath
+abuſed in the fields and Alehouſes where the people do muſter, at play as
+if it were the week day, yea even in the time of di<g ref="char:EOLhyphen"/>vine prayer, to the great
+diſhonour of God, and diſgrace to this City, and that it may be carefully
+lookt into and a<g ref="char:EOLhyphen"/>mended, he prayeth who is a lover of the Goſpell of Jeſus
+Chriſt, and the peace and welfare of this Nation.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
